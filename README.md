@@ -1,6 +1,6 @@
 # Projects Worked
 
-1. PARENTCIRCLE (https://www.parentcircle.com/)
+1️⃣ PARENTCIRCLE (https://www.parentcircle.com/)
 * Technologies: HTML,CSS,JS,JQuery,Bootstrap, Django, Python, MYSqL.
 * India’s top Parenting media company with presence in print publication, web platform and Mobile applications on iOS and Android. 
 * Worked in complete agile model, completing task as a team and also as an individual.
@@ -10,7 +10,7 @@
 * Tracked all issues and managed stories using JIRA tool.
 * Conducted daily UX \UI \ Business interaction calls to get quick solutions.
 
-2. LYNK (https://home.lynk.co.in/)
+2️⃣ LYNK (https://home.lynk.co.in/)
 * Technologies: HTML,CSS,JS,JQuery,Bootstrap, PHP, MYSqL.
 * Lynk app is an intra-city on-demand last mile technology platform that connects customers (individuals/businesses) with trucks (logistics service providers) to move goods.
 * Worked as UI developer as PSD to HTML conversion and handling rest services.
@@ -18,7 +18,7 @@
 * Tracked all issues and managed stories using JIRA tool.
 * Conducted daily UX \UI \ Business interaction calls to get quick solutions.
 
-3. PLZCOME (https://www.plzcome.com/)
+3️⃣ PLZCOME (https://www.plzcome.com/)
 * Technologies: Ionic,Angular,HTML,CSS,Django,Python,MYSqL.
 * The Idea of an App is chaotic invitation process for the party planners and make it quick, easy and organized. Also making it super simple for guests to respond and help the users to keep track of who is coming.
 * Developed as a mobile application on iOS and Android platforms.
@@ -26,7 +26,7 @@
 * Tracked all issues and managed stories using JIRA tool.
 * Build the app deployed in Playstore and AppStore.
 
-4. Centene - Healthcare Insurance Product
+4️⃣ Centene - Healthcare Insurance Product
 *	The Project aims to create a Healthcare application as a product and supply to various customer to perform health care management. 
 *	Flex to HTML 5 / Angular migration project.
 *	Read and Analyse User story, provide an estimate to deliver code on time with all coding standards.
