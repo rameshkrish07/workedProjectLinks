@@ -1,6 +1,19 @@
 # Projects Worked
 
-### 1️⃣ DPF2CDL (Protractor and Gamble(P&G))
+### 1️⃣ TOYOTA - MDT-QI (Manufacturing Digital Transformation - Quality Insights)
+> This project is part of Toyota’s broader digital transformation strategy aimed at
+enhancing manufacturing quality, reducing defects, and increasing operational efficiency
+through advanced data analytics, machine learning and IOT integration.
+* Technologies: Angular-v16,Bootstrap,CSS,JS,.Net,REST API, SQL Server.
+* Worked as a Lead UI developer, design project folder architecture, created reusable components, shared services, etc.,
+* Received Award from Client(Individual contributor) as well as LTI(IWin Shooting Star Award). 
+* Worked in complete agile model, completing task as a team and also as an individual.
+*	Built reusable shared components for UI and Backend service.
+*	All latest software are used for maximum benefit and gave a scope for excellent learning.
+* Tracked all issues and managed stories using Backlogs.
+
+
+### 2️⃣ DPF2CDL (Protractor and Gamble(P&G))
 >This project involves analysing various types of data, including market data, 
 household data, and vendor data, to gain insights into P&G products. The raw data
 from vendors and clients will be processed and displayed in a frontend interface,
@@ -15,7 +28,7 @@ performance.
 * Tracked all issues and managed stories using Backlogs.
 
 
-### 2️⃣ OpsHub (LTI Internal Product)
+### 3️⃣ OpsHub (LTI Internal Product)
 >This project involves creating a workspace, database, and cloud connection, as well
  as managing user permissions for accessing certain pages. The platform is designed 
 for data analysis, data wrangling, and report generation in various forms of 
@@ -30,7 +43,7 @@ to provide a user-friendly and efficient platform for conducting
 *	All latest software are used for maximum benefit and gave a scope for excellent learning.
 * Tracked all issues and managed stories using Backlogs.
 
-### 3️⃣ MyBIZ (Verizon My Business Communication Product tool)
+### 4️⃣ MyBIZ (Verizon My Business Communication Product tool)
 >The Verizon One Talk project involves a system for placing bulk orders of Verizon
 wireless products, including desk phones, mobile phones, and other related 
 products. This platform is designed for use by organizations and individuals, making 
@@ -47,7 +60,7 @@ efficiently.
 *	All latest software are used for maximum benefit and gave a scope for excellent learning.
 * Tracked all issues and managed stories using Backlogs.
 
-### 4️⃣ Develop web UI for Healthcare Application (Healthnet/ Centene)
+### 5️⃣ Develop web UI for Healthcare Application (Healthnet/ Centene)
 >The aim of this project is to develop a healthcare application as a product that can be
 supplied to various customers to help manage their healthcare needs. The
 application will provide a platform for managing health information, such as medical 
@@ -64,7 +77,7 @@ convenient, and efficient for both individuals and healthcare providers.
 *	All latest software are used for maximum benefit and gave a scope for excellent learning.
 * Tracked all issues and managed stories using Backlogs.
 
-### 5️⃣ PARENTCIRCLE (https://www.parentcircle.com/)
+### 6️⃣ PARENTCIRCLE (https://www.parentcircle.com/)
 >This website is dedicated to providing parenting guidance and advice through a range
 of channels, including print publications and digital resources. Users can access the 
 website for free, but can also choose to subscribe to a monthly or yearly plan to 
@@ -84,7 +97,7 @@ guidance throughout their parenting journey.
 * Tracked all issues and managed stories using JIRA tool.
 * Conducted daily UX \UI \ Business interaction calls to get quick solutions.
 
-### 6️⃣ LYNK (https://home.lynk.co.in/)
+### 7️⃣ LYNK (https://home.lynk.co.in/)
 >The Lynk app is an on-demand logistics platform that connects customers, including
 individuals and businesses, with logistics service providers, specifically trucks, for 
 intra-city last mile deliveries. The Lynk app enables customers to request logistics
@@ -101,7 +114,7 @@ estimates.
 * Tracked all issues and managed stories using JIRA tool.
 * Conducted daily UX \UI \ Business interaction calls to get quick solutions.
 
-### 7️⃣ PLZCOME (https://www.plzcome.com/)
+### 8️⃣ PLZCOME (https://www.plzcome.com/)
 >The Party Planner app is designed to make it easy and quick for users to create their own personal invitations and send them to guests. The app is available internationally on both iOS and Android platforms, and offers a range of features that make it easy to create professional-looking invitations in just a few clicks. Users can choose from a range of templates, add their own text and images, and customize the design to suit their personal style. The app also offers features for managing guest lists, sending reminders, and tracking RSVPs, making it a valuable tool for anyone planning a party or event. Whether you're organizing a small gathering with friends or a large-scale event, the Party Planner app makes it easy to create and manage invitations with ease.
 * Technologies: Ionic,Angular,HTML,CSS,Django,Python,MYSqL.
 * The Idea of an App is chaotic invitation process for the party planners and make it quick, easy and organized. Also making it super simple for guests to respond and help the users to keep track of who is coming.
